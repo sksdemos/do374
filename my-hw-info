@@ -1,0 +1,13 @@
+ Static hostname: workstation
+       Icon name: computer-vm
+         Chassis: vm 
+      Machine ID: d7b4591635534a8f91245d8586f5306e
+         Boot ID: eddd89de66e54d71a50a2eef85c65d75
+  Virtualization: kvm
+Operating System: Red Hat Enterprise Linux 9.4 (Plow)
+     CPE OS Name: cpe:/o:redhat:enterprise_linux:9::baseos
+          Kernel: Linux 5.14.0-427.22.1.el9_4.x86_64
+    Architecture: x86-64
+ Hardware Vendor: Red Hat
+  Hardware Model: OpenStack Compute
+Firmware Version: 1.14.0-1.module+el8.4.0+8855+a9e237a9
